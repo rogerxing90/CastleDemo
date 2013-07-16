@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CastleDemo", "CastleDemo\CastleDemo.csproj", "{50F2D090-AA2E-4B75-931C-DCC142EE6A8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CastleConsole", "CastleConsole\CastleConsole.csproj", "{173307C8-E9E5-4D56-B08B-F44604BE8BB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50F2D090-AA2E-4B75-931C-DCC142EE6A8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50F2D090-AA2E-4B75-931C-DCC142EE6A8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50F2D090-AA2E-4B75-931C-DCC142EE6A8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50F2D090-AA2E-4B75-931C-DCC142EE6A8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{173307C8-E9E5-4D56-B08B-F44604BE8BB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{173307C8-E9E5-4D56-B08B-F44604BE8BB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{173307C8-E9E5-4D56-B08B-F44604BE8BB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{173307C8-E9E5-4D56-B08B-F44604BE8BB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
